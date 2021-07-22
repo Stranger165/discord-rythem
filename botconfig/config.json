@@ -1,5 +1,5 @@
 {
-  "token": "",
+  "token": "Your token",
   "prefix": "!",
   "ksoftapi": "",
   
@@ -7,9 +7,10 @@
   "clientsettings": {
     "nodes": [
       {
-         "host": "localhost",
-         "port": 2333,
-         "password": "youshallnotpass"
+         "id": "Main",
+    "host": "lava.link",
+    "port": 80,
+    "pass": "youshallnotpass"
        }
      ]
   },
